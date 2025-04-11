@@ -10,7 +10,7 @@ import macncheeseImg from "@/assets/macncheese.jpg";
 import pizzaImg from "@/assets/pizza.jpg";
 import schnitzelImg from "@/assets/schnitzel.jpg";
 import tomatoSaladImg from "@/assets/tomato-salad.jpg";
-import styles from "./image-slideshow.module.css";
+import styles from "./images-slideshow.module.css";
 
 const images = [
   { image: burgerImg, alt: "A delicious, juicy burger" },
