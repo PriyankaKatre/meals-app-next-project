@@ -8,8 +8,7 @@ export default function Home() {
     <>
       <header className={classes.header}>
         <div className={classes.slideshow}>
-          <ImageSlideshow 
-          ></ImageSlideshow>
+          <ImageSlideshow />
         </div>
         <div>
           <div className={classes.hero}>

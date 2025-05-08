@@ -57,7 +57,7 @@ svg {
 .error p {
   font-size: 1.5rem;
   font-weight: 500;
-  color: #ddd8d8;  
+  color: #e06060;  
 }
 
 .error h1 {
@@ -72,4 +72,9 @@ svg {
   background-clip: text;
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
+}
+
+button[disabled] {
+  opacity: .5;
+  cursor: not-allowed;
 }
